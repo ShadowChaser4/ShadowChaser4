@@ -19,7 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  - :telescope: I'm working on web development with knowledge of backend and frontend
  - :seedling: I'm currently learning Javascript, Python and it's framework and libraries
  - 🎓 I'm currently a Computer Engingeering student at IOE, Purwanchal Campus.
- - :mailbox: How to reach me: [![Email badge](
+ - :mailbox: How to reach me: ![Email badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
 ---
 
 ### :hammer_and_wrench: Languages and Tools: 
