@@ -41,6 +41,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
  ---
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowChaser4&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+---
  
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShadowChaser4&theme=dark&background=000000)](https://git.io/streak-stats)
