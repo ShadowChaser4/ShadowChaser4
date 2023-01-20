@@ -41,4 +41,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src = "https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" width ="40" height ="40"/> &nbsp;
 </div>
 
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowChaser4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
