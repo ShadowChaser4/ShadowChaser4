@@ -23,25 +23,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  - :mailbox: How to reach me: kushalacharya53@gmail.com
 ---
 
-### :hammer_and_wrench: Languages and Tools: 
-
-<div>
-<img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> &nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> &nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40"/> &nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" widht = "40" height = "40"/> &nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/> &nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="50"height="70"/> &nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="50"height="70"/> &nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" width="50" height="70"/> &nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="50" height="70"/> &nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="40"/> &nbsp;
-<img src ="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width = "40" height = "40"/> &nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/> &nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" width ="40" height ="40"/> &nbsp;
-</div>
-
-<br/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowChaser4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
