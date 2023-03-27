@@ -22,6 +22,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  - 🎓 I'm currently a Computer Engingeering student at IOE, Purwanchal Campus.
  - :mailbox: How to reach me: kushalacharya53@gmail.com
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowChaser4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
