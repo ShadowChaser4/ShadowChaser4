@@ -15,7 +15,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
  - :telescope: I'm working on web development with knowledge of backend and frontend
  - :seedling: I'm currently learning Web Development and Machine Learning
