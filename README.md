@@ -20,5 +20,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  - :telescope: I'm working on web development with knowledge of backend and frontend
  - :seedling: I'm currently learning Web Development and Machine Learning
  - 🎓 I'm currently a Computer Engingeering student at IOE, Purwanchal Campus.
- - :mailbox: How to reach me: kushalacharya53@gmail.com
+ - 📧 : How to reach me: kushalacharya53@gmail.com
 ---
