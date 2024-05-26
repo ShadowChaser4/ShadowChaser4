@@ -16,6 +16,6 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
  - :telescope: I'm working on web development with knowledge of backend and frontend
  - :seedling: I'm currently learning Web Development and Machine Learning
- - 🎓 I'm currently a Computer Engingeering student at IOE, Purwanchal Campus.
+ - 🎓 I'm a Computer Engingeer graduated from IOE, Purwanchal Campus.
  - 📧 : How to reach me: kushalacharya53@gmail.com
 ---
